@@ -1,6 +1,7 @@
 esta es la historia de John Higuita
 
-John Higuita tiene 35 años y nacio en Colombia
+John Higuita tiene 35 años y nacio en Colombia,
+viviendo en todo el mundo
 
-Hoy hablaremos su historia.
+Hoy hablaremos DE su historia.
 
